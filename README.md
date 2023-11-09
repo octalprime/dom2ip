@@ -13,3 +13,5 @@ put your domain list to input.txt
 ## how to run
 
 `python dom2ip.py input.txt`
+
+the result will show as output.txt
