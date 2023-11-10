@@ -6,8 +6,6 @@ simple script to grab ip address from a domain using python
 
 this script use socket to grab ip address
 
-`pip install socket`
-
 put your domain list to input.txt
 
 ## how to run
